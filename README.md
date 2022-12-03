@@ -7,8 +7,7 @@
 
  FR - Ce répertoire ne contient que le fichier HTML, index.html. L'apprenant doit utiliser ses compétences, en suivant les directives du fichier Instructions (Instructions.md) pour créer une feuille de style CSS afin d'obtenir les résultats escomptés.
 
- This project is inspired by the Shades landing page template by
- https://finestdevs.com/demos/html/shade/index-11.html. 
+ This project is inspired by the Shades landing page template by https://finestdevs.com/shade/ 
 
  The landing page template was obtained from a post of free landing page templates, at https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp
  
