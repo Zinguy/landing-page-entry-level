@@ -59,9 +59,9 @@ employez le Flex avec des des propriétés et positionnements nécéssaires.
 employez le Flex avec des des propriétés et positionnements nécéssaires.
 
 * Pour le 
-``` <div class="features"> ``` 
+``` <section class="features"> ``` 
 employez le Flex avec des des propriétés et positionnements nécéssaires.
 
 * Pour le 
-``` <div class="feature"> ```
+``` <section class="feature"> ```
 employez le Flex avec des des propriétés et positionnements nécéssaires.

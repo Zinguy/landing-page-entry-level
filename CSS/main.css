@@ -1,0 +1,19 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: 'Yu Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+body, html {
+    width: 100%;
+    background-color: #e4eef8;
+}
+.wrapper {
+    width: 90%;
+    margin: 0 auto;
+}
